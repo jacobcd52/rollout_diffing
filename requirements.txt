@@ -1,0 +1,6 @@
+transformers
+torch
+peft
+accelerate 
+datasets
+matplotlib
